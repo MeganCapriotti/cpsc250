@@ -1,13 +1,40 @@
-#7.2.2 Level 2
-#Floating-point number run_distance is read from input.
-#Use one print(f' ') statement to output run_distance to 2 decimal places, followed by ' km'.
-run_distance = float(input())
-print(f'{run_distance:.2f} km')
+def level_1():
+    #7.2.2 Level 1
+    #String food_name is read from input. Use two print(f' ') statements to output the following two lines:
+        #food_name with a width of 11 characters, right-aligned, and with the fill character '+'.
+        #food_name with a width of 11 characters, centered, and with the fill character '+'.
+    food_name = input()
+    print(f'{food_name:+>11}')
+    print(f'{food_name:+^11}')
 
-musicians = input().split()
-instruments = input().split()
-separator_char = input()
-print(f'{"Musicians":^29}{"Instruments":^29}')
-print(separator_char * 58)
-for i in range(len(musicians)):   
-    print(f'{musicians[i]:^29}{instruments[i]:^29}')
+def level_2():
+    #7.2.2 Level 2
+    #Floating-point number run_distance is read from input.
+    #Use one print(f' ') statement to output run_distance to 2 decimal places, followed by ' km'.
+    run_distance = float(input())
+    print(f'{run_distance:.2f} km')
+
+def level_3():
+    #7.2.2 Level 3
+    #Three strings are read from input and stored into list musicians.
+    #Then, three more strings are read from input and stored into list instruments.
+    #Lastly, string separator_char is read from input.
+    #Use five print(f' ') statements to output the following five lines:
+        #"Musicians", with a field width of 20, centered. Then "Instruments", with a field width of 27, centered.
+        #58 instances of separator_char.
+        #musicians[0], with a field width of 20, centered. Then, instruments[0] with a field width of 20, centered.
+        #musicians[1], with a field width of 20, centered. Then, instruments[1] with a field width of 20, centered.
+        #musicians[2], with a field width of 20, centered. Then, instruments[2] with a field width of 20, centered.
+        
+    musicians = input().split()
+    instruments = input().split()
+    separator_char = input()
+    print(f'{"Musicians":^29}{"Instruments":^29}')
+    print(separator_char * 58)
+    for i in range(len(musicians)):   
+        print(f'{musicians[i]:^29}{instruments[i]:^29}')
+
+if __name__ == "__main__":
+    level_1()
+    level_2()
+    level_3()
