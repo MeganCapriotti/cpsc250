@@ -1,0 +1,7 @@
+musicians = input().split()
+instruments = input().split()
+separator_char = input()
+print(f'{"Musicians":^29}{"Instruments":^29}')
+print(separator_char * 58)
+for i in range(len(musicians)):   
+    print(f'{musicians[i]:^29}{instruments[i]:^29}')
