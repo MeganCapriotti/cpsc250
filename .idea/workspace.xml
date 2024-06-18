@@ -5,9 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d062df99-4e26-41a5-935e-1aece53ac647" name="Changes" comment="Week 4 updates">
-      <change afterPath="$PROJECT_DIR$/Test 1 Examples/HowMainWorks_Version3.py" afterDir="false" />
+<<<<<<< Updated upstream
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Morris/p1_test1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Morris/p1_test2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Morris/p1_test3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Morris/test.sh" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Borbidge/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Borbidge/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Bowman/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Bowman/fancy_car_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Bowman/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Bryant/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Bryant/fancy_car_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Bryant/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Capriotti/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Capriotti/fancy_car_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Capriotti/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/DelCorso/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Knowles/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Knowles/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Lamantia/fancy_carTest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Lamantia/fancy_car_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Lamantia/matrix_multiplicationTest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Miller/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Miller/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Peterson/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Peterson/matrix_multiplication (1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Rockingham/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Rockingham/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Sen/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Sen/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Simon/fancy_car_Joseph_Simon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Simon/fancy_car_test_JS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Simon/matrix_multiplication_Joseph_Simon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Smajic/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Smajic/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Smajic/recpsc250test2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Taggart/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Taggart/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/VanGorder/Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/VanGorder/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/VanGorder/fancy_car_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Washington/Test 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Watlington/fast_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Watlington/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/West/fancy_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/West/matrix_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test 2 Examples/Wetherbee/matrix_multiplication.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test 1 Examples/HowMainWorks_Version1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test 1 Examples/HowMainWorks_Version1.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +85,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -54,30 +104,49 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.Python tests in fancy_car_test.py.executor": "Run",
     "Python.HowMainWorks_Version1.executor": "Run",
     "Python.HowMainWorks_Version2.executor": "Run",
     "Python.HowMainWorks_Version3.executor": "Run",
+    "Python.airline.executor": "Run",
     "Python.alexis_example.executor": "Run",
+    "Python.alexis_labs.executor": "Run",
     "Python.books.executor": "Run",
     "Python.convert_int_to_base.executor": "Run",
     "Python.convert_int_to_binary.executor": "Run",
+    "Python.die_average.executor": "Run",
+    "Python.die_average_plot.executor": "Run",
     "Python.factorial.executor": "Run",
+    "Python.fancy_car.executor": "Run",
+    "Python.fancy_car_test.executor": "Run",
     "Python.floatingpoint.executor": "Run",
     "Python.function_examples.executor": "Run",
     "Python.grade_calculator.executor": "Run",
     "Python.list_properties.executor": "Run",
     "Python.loop_examples.executor": "Run",
+    "Python.plotting_test.executor": "Run",
     "Python.primitive_sizes.executor": "Run",
+    "Python.random_test.executor": "Run",
+    "Python.rectangle.executor": "Run",
     "Python.restaurant.executor": "Run",
     "Python.restaurant_improved.executor": "Run",
     "Python.tax_calculator.executor": "Run",
     "Python.tax_calculator_template.executor": "Run",
+    "Python.vector.executor": "Run",
+    "Python.zylab23.executor": "Run",
+    "Python.zylab23_credit_profile.executor": "Run",
+    "Python.zylab23_large_simulation.executor": "Run",
+    "Python.zylab23_large_simulation_winnings.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/brash/cpsc250",
+    "git-widget-placeholder": "test2",
+<<<<<<< Updated upstream
+    "last_opened_file_path": "/Users/brash/PycharmProjects/cpsc250/Test 2 Examples",
+=======
+    "last_opened_file_path": "/Users/brash/PycharmProjects/cpsc250/Test 2 Examples/DelCorso",
+>>>>>>> Stashed changes
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,10 +158,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< Updated upstream
+      <recent name="$PROJECT_DIR$/Test 2 Examples" />
       <recent name="$PROJECT_DIR$/Week4_Examples" />
       <recent name="$PROJECT_DIR$/Week3_Examples" />
       <recent name="$PROJECT_DIR$/Week2_Examples" />
       <recent name="$PROJECT_DIR$/Week1_Examples" />
+=======
+      <recent name="$PROJECT_DIR$/Test 2 Examples/DelCorso" />
+      <recent name="$PROJECT_DIR$/Test 2 Examples/Watlington" />
+      <recent name="$PROJECT_DIR$/Test 2 Examples/Taggart" />
+      <recent name="$PROJECT_DIR$/Test 2 Examples/Simon" />
+      <recent name="$PROJECT_DIR$/Test 2 Examples/VanGorder" />
+>>>>>>> Stashed changes
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Week3_Examples" />
@@ -129,8 +207,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -149,7 +227,12 @@
       <workItem from="1715602630439" duration="1056000" />
       <workItem from="1717463432785" duration="46196000" />
       <workItem from="1717788791480" duration="238000" />
-      <workItem from="1717789044905" duration="1626000" />
+      <workItem from="1717789044905" duration="10611000" />
+<<<<<<< Updated upstream
+      <workItem from="1718366009170" duration="695000" />
+=======
+      <workItem from="1718366009170" duration="8827000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Add Lab 2 solutions">
       <created>1683488463800</created>
@@ -445,54 +528,7 @@
       <option name="project" value="LOCAL" />
       <updated>1688043635926</updated>
     </task>
-    <task id="LOCAL-00054" summary="Week 4 updates">
-      <option name="closed" value="true" />
-      <created>1717603848673</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1717603848673</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Week 4 updates">
-      <option name="closed" value="true" />
-      <created>1717604702255</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1717604702255</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Week 4 updates">
-      <option name="closed" value="true" />
-      <created>1717604725145</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1717604725145</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Week 4 updates">
-      <option name="closed" value="true" />
-      <created>1717690265522</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1717690265522</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Week 4 updates">
-      <option name="closed" value="true" />
-      <created>1717693275543</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1717693275543</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Week 4 updates">
-      <option name="closed" value="true" />
-      <created>1717721374916</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1717721374916</updated>
-    </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00060" summary="Week 4 updates">
       <option name="closed" value="true" />
       <created>1717773390792</created>
@@ -501,7 +537,77 @@
       <option name="project" value="LOCAL" />
       <updated>1717773390792</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718023714539</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1718023714539</updated>
+    </task>
+=======
+>>>>>>> Stashed changes
+    <task id="LOCAL-00062" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718191477708</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1718191477709</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718283599355</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1718283599355</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718287565883</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1718287565883</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718291245190</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1718291245190</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718365893997</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1718365893997</updated>
+    </task>
+<<<<<<< Updated upstream
+    <option name="localTasksCounter" value="67" />
+=======
+    <task id="LOCAL-00067" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718367371219</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367371219</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Week 4 updates">
+      <option name="closed" value="true" />
+      <created>1718377366857</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1718377366857</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +626,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Week 4 updates" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cpsc250$probability.coverage" NAME="probability Coverage Results" MODIFIED="1688783186305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1_Examples" />
     <SUITE FILE_PATH="coverage/cpsc250$basic_data_plotting.coverage" NAME="basic_data_plotting Coverage Results" MODIFIED="1688817468946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week4_Examples" />
+    <SUITE FILE_PATH="coverage/cpsc250$probability.coverage" NAME="probability Coverage Results" MODIFIED="1688783186305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1_Examples" />
+    <SUITE FILE_PATH="coverage/cpsc250$.coverage" NAME=" Coverage Results" MODIFIED="1718378428724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test 2 Examples" />
   </component>
 </project>
